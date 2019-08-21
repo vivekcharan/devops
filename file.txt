@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 "Hello,This is my first file"
 
 "Welcome to PLJ Devops"
 
 added some more info for third commit 
+=======
+"This is my first line"
+>>>>>>> master
