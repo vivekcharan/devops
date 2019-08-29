@@ -1,1 +1,3 @@
-added one line for conflict show
+"This is my first line"
+
+"This is my second line"
