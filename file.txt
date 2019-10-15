@@ -3,3 +3,7 @@ Welcome to Project Branch
 Hi Myself  Project 
 
 added one line to show conflict in project1
+
+added another line to same above
+
+added third line to same above
