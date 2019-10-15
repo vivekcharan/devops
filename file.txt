@@ -3,3 +3,5 @@ Welcome to Project Branch
 Hi Myself  Project
 
 added one line in project branch to show conflict  
+
+added another line same above
