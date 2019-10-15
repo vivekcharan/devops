@@ -1,3 +1,5 @@
 Welcome to Project Branch 
 
-Hi Myself  Project 
+Hi Myself  Project
+
+added one line in project branch to show conflict  
