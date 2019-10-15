@@ -1,7 +1,10 @@
 Welcome to Project Branch 
 
-Hi Myself  Project
+Hi Myself  Project 
 
-added one line in project branch to show conflict  
+added one line to show conflict in project1
 
-added another line same above
+added another line to same above
+
+added third line to same above
+
